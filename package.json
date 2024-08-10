@@ -1,6 +1,7 @@
 {
-  "homepage": "https://nikhilmekle.github.io/NewsApp",
+
   "name": "newsapp",
+  "homepage":"https://nikhilmekle.github.io/news-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
